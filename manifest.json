@@ -1,0 +1,17 @@
+{
+  "name": "The Pulse",
+  "short_name": "Pulse",
+  "description": "News through the lens of culture. Fast. Real. Yours.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%23000'/><text x='50%25' y='55%25' font-size='120' text-anchor='middle' dominant-baseline='middle'>🔴</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
